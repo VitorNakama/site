@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SiteLudoviajante/static/css/main.cc2eb2c6.chunk.css",
+    "main.js": "/SiteLudoviajante/static/js/main.0bff2c2c.chunk.js",
+    "main.js.map": "/SiteLudoviajante/static/js/main.0bff2c2c.chunk.js.map",
+    "runtime~main.js": "/SiteLudoviajante/static/js/runtime~main.ce168a87.js",
+    "runtime~main.js.map": "/SiteLudoviajante/static/js/runtime~main.ce168a87.js.map",
+    "static/js/2.c3c60be5.chunk.js": "/SiteLudoviajante/static/js/2.c3c60be5.chunk.js",
+    "static/js/2.c3c60be5.chunk.js.map": "/SiteLudoviajante/static/js/2.c3c60be5.chunk.js.map",
+    "index.html": "/SiteLudoviajante/index.html",
+    "precache-manifest.65f9e2ece1668cf79926824c6ba11c62.js": "/SiteLudoviajante/precache-manifest.65f9e2ece1668cf79926824c6ba11c62.js",
+    "service-worker.js": "/SiteLudoviajante/service-worker.js",
+    "static/css/main.cc2eb2c6.chunk.css.map": "/SiteLudoviajante/static/css/main.cc2eb2c6.chunk.css.map",
+    "static/media/Castelo.png": "/SiteLudoviajante/static/media/Castelo.77fa5e4d.png",
+    "static/media/styles.css": "/SiteLudoviajante/static/media/Cocogoose Pro-trial.ee56e6fb.ttf",
+    "static/media/Determination.png": "/SiteLudoviajante/static/media/Determination.5554a906.png",
+    "static/media/Estrelas.png": "/SiteLudoviajante/static/media/Estrelas.35dccf5b.png",
+    "static/media/Ludoviajante.png": "/SiteLudoviajante/static/media/Ludoviajante.edf0ff7f.png",
+    "static/media/Video1.png": "/SiteLudoviajante/static/media/Video1.7000d74c.png",
+    "static/media/Video2.png": "/SiteLudoviajante/static/media/Video2.b27c471a.png",
+    "static/media/Video3.png": "/SiteLudoviajante/static/media/Video3.c6b6ccaf.png",
+    "static/media/Video4.png": "/SiteLudoviajante/static/media/Video4.ca927a6f.png",
+    "static/media/Video5.png": "/SiteLudoviajante/static/media/Video5.a8e0d71f.png"
+  }
+}
