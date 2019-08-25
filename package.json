@@ -2,7 +2,7 @@
   "name": "gitapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://siteLudo.github.io/SiteLudoviajante/",
+  "homepage": "https://VitorNakama.github.io/SiteLudoviajante/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
